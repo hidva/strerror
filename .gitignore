@@ -1,0 +1,8 @@
+
+bin/
+objs/
+test/
+*.test.*
+
+*.creator.user*
+
